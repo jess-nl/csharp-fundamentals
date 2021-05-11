@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A2BDD57F-ED4E-4722-90E6-A4389229893E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithDirectories/Program.cs">
+    <Files>
+      <File FileName="WorkingWithDirectories/Program.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingWithDirectories" expanded="True">
+            <Node name="WorkingWithDirectories" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithDirectories PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

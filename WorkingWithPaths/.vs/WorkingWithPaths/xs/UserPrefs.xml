@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6B20D57D-74AD-43DC-8FF3-A18996803BF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithPaths/Program.cs">
+    <Files>
+      <File FileName="WorkingWithPaths/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingWithPaths" expanded="True">
+            <Node name="WorkingWithPaths" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithPaths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

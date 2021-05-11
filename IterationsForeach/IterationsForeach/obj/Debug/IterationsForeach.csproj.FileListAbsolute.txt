@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/bin/Debug/IterationsForeach.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/bin/Debug/IterationsForeach.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/obj/Debug/IterationsForeach.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/obj/Debug/IterationsForeach.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/obj/Debug/IterationsForeach.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForeach/IterationsForeach/obj/Debug/IterationsForeach.pdb

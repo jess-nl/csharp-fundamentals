@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/bin/Debug/TimeSpans.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/bin/Debug/TimeSpans.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/obj/Debug/TimeSpans.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/obj/Debug/TimeSpans.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/obj/Debug/TimeSpans.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/TimeSpans/TimeSpans/obj/Debug/TimeSpans.pdb

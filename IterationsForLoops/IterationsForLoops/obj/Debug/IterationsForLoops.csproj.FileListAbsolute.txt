@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/bin/Debug/IterationsForLoops.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/bin/Debug/IterationsForLoops.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/obj/Debug/IterationsForLoops.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/obj/Debug/IterationsForLoops.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/obj/Debug/IterationsForLoops.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/IterationsForLoops/IterationsForLoops/obj/Debug/IterationsForLoops.pdb

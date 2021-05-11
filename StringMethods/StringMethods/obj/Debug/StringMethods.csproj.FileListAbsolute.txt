@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/bin/Debug/StringMethods.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/bin/Debug/StringMethods.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/obj/Debug/StringMethods.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/obj/Debug/StringMethods.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/obj/Debug/StringMethods.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/StringMethods/StringMethods/obj/Debug/StringMethods.pdb

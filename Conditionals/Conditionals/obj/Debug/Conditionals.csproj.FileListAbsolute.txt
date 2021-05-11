@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/bin/Debug/Conditionals.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/bin/Debug/Conditionals.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/obj/Debug/Conditionals.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/obj/Debug/Conditionals.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/obj/Debug/Conditionals.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Conditionals/Conditionals/obj/Debug/Conditionals.pdb

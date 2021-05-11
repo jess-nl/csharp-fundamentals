@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/bin/Debug/StringBuilders.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/bin/Debug/StringBuilders.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/obj/Debug/StringBuilders.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/obj/Debug/StringBuilders.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/obj/Debug/StringBuilders.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/StringBuilders/StringBuilders/obj/Debug/StringBuilders.pdb

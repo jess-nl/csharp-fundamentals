@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{907506C6-B8F6-46E9-B84F-C443A194911C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IterationsWhileLoops/Program.cs">
+    <Files>
+      <File FileName="IterationsWhileLoops/Program.cs" Line="42" Column="176" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IterationsWhileLoops" expanded="True">
+            <Node name="IterationsWhileLoops" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IterationsWhileLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

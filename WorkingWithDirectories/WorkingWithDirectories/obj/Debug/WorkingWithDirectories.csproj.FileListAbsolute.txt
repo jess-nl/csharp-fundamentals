@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/bin/Debug/WorkingWithDirectories.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/bin/Debug/WorkingWithDirectories.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/obj/Debug/WorkingWithDirectories.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/obj/Debug/WorkingWithDirectories.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/obj/Debug/WorkingWithDirectories.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithDirectories/WorkingWithDirectories/obj/Debug/WorkingWithDirectories.pdb

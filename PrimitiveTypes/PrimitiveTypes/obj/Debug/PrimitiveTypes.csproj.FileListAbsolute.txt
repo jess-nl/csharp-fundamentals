@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/obj/Debug/PrimitiveTypes.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/obj/Debug/PrimitiveTypes.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/bin/Debug/PrimitiveTypes.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/bin/Debug/PrimitiveTypes.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/obj/Debug/PrimitiveTypes.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/PrimitiveTypes/PrimitiveTypes/obj/Debug/PrimitiveTypes.pdb

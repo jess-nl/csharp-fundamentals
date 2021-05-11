@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/bin/Debug/Operators.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/bin/Debug/Operators.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/obj/Debug/Operators.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/obj/Debug/Operators.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/obj/Debug/Operators.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Operators/Operators/obj/Debug/Operators.pdb

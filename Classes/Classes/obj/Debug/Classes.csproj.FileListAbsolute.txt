@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/bin/Debug/Classes.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/bin/Debug/Classes.pdb
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/obj/Debug/Classes.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/obj/Debug/Classes.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/obj/Debug/Classes.exe
+/Users/jess/Documents/Developer/csharp-fundamentals/Classes/Classes/obj/Debug/Classes.pdb
