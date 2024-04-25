@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/bin/Debug/Strings.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/bin/Debug/Strings.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/obj/Debug/Strings.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/obj/Debug/Strings.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/obj/Debug/Strings.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Strings/Strings/obj/Debug/Strings.pdb

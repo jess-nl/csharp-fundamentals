@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/bin/Debug/Enums.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/bin/Debug/Enums.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/obj/Debug/Enums.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/obj/Debug/Enums.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/obj/Debug/Enums.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Enums/Enums/obj/Debug/Enums.pdb

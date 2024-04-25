@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/bin/Debug/DateTimes.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/bin/Debug/DateTimes.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/obj/Debug/DateTimes.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/obj/Debug/DateTimes.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/obj/Debug/DateTimes.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/DateTimes/DateTimes/obj/Debug/DateTimes.pdb

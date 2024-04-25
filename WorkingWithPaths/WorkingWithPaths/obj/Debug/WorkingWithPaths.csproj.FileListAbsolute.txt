@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/bin/Debug/WorkingWithPaths.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/bin/Debug/WorkingWithPaths.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/obj/Debug/WorkingWithPaths.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/obj/Debug/WorkingWithPaths.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/obj/Debug/WorkingWithPaths.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/WorkingWithPaths/WorkingWithPaths/obj/Debug/WorkingWithPaths.pdb

@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/bin/Debug/ReferenceTypesValueTypesPt2.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/bin/Debug/ReferenceTypesValueTypesPt2.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/obj/Debug/ReferenceTypesValueTypesPt2.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/obj/Debug/ReferenceTypesValueTypesPt2.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/obj/Debug/ReferenceTypesValueTypesPt2.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/ReferenceTypesValueTypesPt2/ReferenceTypesValueTypesPt2/obj/Debug/ReferenceTypesValueTypesPt2.pdb
