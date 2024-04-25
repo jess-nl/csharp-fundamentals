@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/obj/Debug/TypeConversion.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/TypeConversion/TypeConversion/obj/Debug/TypeConversion.pdb

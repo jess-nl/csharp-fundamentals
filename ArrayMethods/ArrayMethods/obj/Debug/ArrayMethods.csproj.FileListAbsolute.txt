@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/bin/Debug/ArrayMethods.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/bin/Debug/ArrayMethods.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/ArrayMethods/ArrayMethods/obj/Debug/ArrayMethods.pdb

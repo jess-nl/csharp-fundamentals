@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/bin/Debug/Arrays.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/bin/Debug/Arrays.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/obj/Debug/Arrays.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/obj/Debug/Arrays.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/obj/Debug/Arrays.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/Arrays/Arrays/obj/Debug/Arrays.pdb

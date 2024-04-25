@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/bin/Debug/IterationsWhileLoops.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/bin/Debug/IterationsWhileLoops.pdb
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/obj/Debug/IterationsWhileLoops.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/obj/Debug/IterationsWhileLoops.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/obj/Debug/IterationsWhileLoops.exe
-/Users/jess/Documents/Developer/csharp-fundamentals/IterationsWhileLoops/IterationsWhileLoops/obj/Debug/IterationsWhileLoops.pdb
